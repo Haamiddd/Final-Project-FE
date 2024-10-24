@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your global CSS or component-specific CSS */
+.background-bad {
+    background-image: url('./images/bad-main.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .background-cric {
+    background-image: url('./images/cric-main.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .background-foot {
+    background-image: url('./images/foot-main.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
