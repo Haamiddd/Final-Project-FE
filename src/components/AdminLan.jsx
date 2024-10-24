@@ -21,7 +21,7 @@ const AdminLan = () => {
           <h1>Make Bookings</h1>
         </Link>
         <Link to="/MonthlyIncome" className='bg-white h-[10vh] w-[40vh] flex items-center justify-center rounded-xl'>
-          <h1>Monthly Revenue</h1>
+          <h1>Monthly Incomr</h1>
         </Link>
       </div>
     </div>
